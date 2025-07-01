@@ -1,4 +1,4 @@
-# 耐烦度计算
+# 耐烦度计算（我操这个b世界）
 
 在线预览：https://impatient-8wa4jvkts-pinouts-projects.vercel.app
 
